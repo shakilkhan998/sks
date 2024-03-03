@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+.test{
+    font-family: "Rubik Bubbles", system-ui;
+    font-size: 3.0cm;
+    text-transform: uppercase;
+    background:
+    url(./pexels-min-an-1200225.jpg);
+    font-family: 'Open Sans Pro', sans-serif;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    
+    
+    
+}
